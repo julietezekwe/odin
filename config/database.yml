@@ -1,0 +1,15 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: odin_project
+  pool: 5
+  username: chidinmaezekwe
+  password: 
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: odin_project_test
+  pool: 5
+  username: chidinmaezekwe
+  password: 
